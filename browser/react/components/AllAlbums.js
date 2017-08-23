@@ -6,7 +6,6 @@ export default class AllAlbums extends Component {
 
   render() {
     const albums = this.props.albums;
-
     return (
       <div>
         <h3>Albums</h3>
